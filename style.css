@@ -5,18 +5,60 @@
 }
 
 body {
- background-color: lightcyan; 
+ background-color: #d4d4d4; 
 }
 
 /* STYLE TEXT */
-
-h1 {
-  color: navy;
+header{
+   color:#486048;
+   padding:20px;
+   text-align:center;
+   text-shadow: 1px 1px 0 black, -1px -1px 0 white; 
 }
 
 /* STYLE IMAGES */
+img{
+   max-width:500px;
+   max-height:250px;
+   border:5px solid #486048;
+}
+
+.info{
+   display:flex;
+   justify-content: center;
+   gap:10px;
+}
+
 
 /* STYLE NAV BAR */
+ul{
+  list-style-type:none;
+  background-color:#ededed;
+  overflow:hidden;
+  padding-top:15px;
+  padding-bottom:15px;
+  margin-bottom:10px;
+  text-align: center;
+}
+/*puts the links next to each other*/
+li{
+  display:flex;
+   justify-content:center;
+   flex-direction:row;
+}
+/*styles the links in the navbar*/
+li a{
+  color:#486048;
+  font-size:20px;
+  padding:10px;
+  text-decoration:none;
+   border:3px solid gray;
+   gap:20px;
+}
+
+li a:hover{
+  background-color:#d6e6d6;
+}
 
 /* STYLE BUTTONS */
 
