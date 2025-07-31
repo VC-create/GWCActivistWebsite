@@ -21,7 +21,7 @@ You can extend your project further by:
 
 
 ### Image Attributions
-
+  All images from Pixabay.
 ---
 
 ## File Overview

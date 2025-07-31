@@ -41,10 +41,18 @@ img{
    margin-bottom:30px;
 }
 
-.info{
-   display:flex;
-   justify-content: center;
-   gap:10px;
+.flex-container{
+  display:flex;
+  justify-content: center;
+  gap:20px;
+  flex-direction:row;
+  flex-wrap:nowrap;
+}
+/*the bigger the width, the quicker it will wrap and display as a column*/
+@media screen and (max-width:1000px){
+  .flex-container{
+    flex-wrap:wrap;
+  }
 }
 
 /* STYLE NAV BAR */
