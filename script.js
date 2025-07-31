@@ -39,7 +39,6 @@ var fact = document.getElementById("fact");
 var count = 0;
 
 var homeButton = document.getElementById("homeButton");
-homeButton.addEventListener("click", displayFact);
 
 if(homeButton){
   homeButton.addEventListener("click", displayFact);
