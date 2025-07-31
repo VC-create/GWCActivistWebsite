@@ -34,9 +34,12 @@ var factList = [
   "According to an Oxfam report, if the world’s 100 richest people pooled their collective earnings in 2012, they could have ended extreme world poverty four times over (The Borgen Project).",
 ];
 
+//fact is where the fact will show up
 var fact = document.getElementById("fact");
-var homeButton = document.getElementById("homeButton");
 var count = 0;
+
+var homeButton = document.getElementById("homeButton");
+homeButton.addEventListener("click", displayFact);
 
 if(homeButton){
   homeButton.addEventListener("click", displayFact);
@@ -44,7 +47,7 @@ if(homeButton){
 
 function displayFact(){
   fact.innerHTML = factList[count];
-  count += 1;
+  count++;
   if (count == factList.length){
     count = 0;
   }
