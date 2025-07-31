@@ -5,7 +5,7 @@
 var email = document.getElementById("email");
 var TAbutton = document.getElementById("myTAButton");
 
-if (TAbutton && email) {
+if (TAbutton) {
   TAbutton.addEventListener("click", displayEmail);
 }
 
@@ -34,7 +34,7 @@ var fact = document.getElementById("fact");
 var count = 0;
 var homeButton = document.getElementById("homeButton");
 
-if (homeButton && fact) {
+if (homeButton) {
   homeButton.addEventListener("click", displayFact);
 }
 
