@@ -41,6 +41,7 @@ img{
    margin-bottom:30px;
 }
 
+/*flex-container and media screen is what adds responsitivity to the wesbite*/
 .flex-container{
   display:flex;
   justify-content: center;
