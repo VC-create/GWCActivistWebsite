@@ -1,49 +1,9 @@
-# Activist Toolkit Sample Project
-
-This is a place for you to start building your activist toolkit!
-
-
-### Project Requirements
-Your project should:
-- Build a multipage website using HTML, CSS, and JavaScript.
-- Implement at least one of the key features from the menu. 
-- Customize the look and feel of your site through colors, images, and fonts using CSS.
-- Include alt text for every image in your website.
-- Use code comments to describe your code.
-
-
-### Extensions
-You can extend your project further by:
-- Refactor your code.
-- Add a nice-to-have feature.
-- Port to GitHub pages.
-- Add another key feature.
+# Activist Toolkit
+This is a website to raise awareness about global poverty for the GWC Activist Website. It was my first time using JavaScript, and the website is responsive, has a fact generator, and a email generator. This is also a topic close to me because I come from India which has one of the highest poverty rates in the world, and I saw it firsthand :( which was really sad to see. The first goal on the UN SDG is to eradicate poverty by 2030, which at the rate the world is progressing, is not going to happen, which is why it is important to raise awareness. Also, you can learn more about specifically US programs like SNAP and CHIP which, due to budget cuts, are limiting access to low income families for food and health coverage, which could create a rise in poverty in the US. I made it using HTML, CSS, and JS. Overall I feel that I progressed much faster through this website than my first one (spent half the time!), and I feel like I understood a lot more of what I was doing. I also enjoyed using Javascript. After this project, I'm working on some bigger projects which I want to submit after and hopefully show more technical growth. Sorry if this is way too long!
 
 
 ### Image Attributions
   All images from Pixabay.
 ---
-
-## File Overview
-
-### ← README.md
-
-That's this file. This is the place to tell people more about what your website does and how you built it. 
-
-### ← index.html
-
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
-
-### ← style.css
-
-CSS files add styling rules to your content like changing colors and fonts. 
-
-### ← script.js
-
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
 
 
