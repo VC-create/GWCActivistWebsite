@@ -123,12 +123,7 @@ input{
    gap:20px;
 }
 
-.factGen{
-   background-color:#d6e6d6;
-   display:flex;
-   justify-content: center;
-   flex-direction:column;
-   padding:10px;
-   text-align:center;
-   border:5px solid gray;
+button:hover{
+   background-color:gray ;
+   color:white;
 }
