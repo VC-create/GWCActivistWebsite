@@ -35,7 +35,7 @@ var factList = [
 ];
 
 var fact = document.getElementById("fact");
-var homeButton = document.getElementById("myButton");
+var homeButton = document.getElementById("homeButton");
 var count = 0;
 
 homeButton.addEventListener("click", displayFact);
