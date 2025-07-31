@@ -47,7 +47,7 @@ if(homeButton){
 function displayFact(){
   fact.innerHTML = factList[count];
   count+=1;
-  if (count=factList.length){
+  if (count==factList.length){
     count=0;
   }
 }
