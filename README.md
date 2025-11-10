@@ -10,5 +10,6 @@ What you struggled with and what you learned: I struggled with the fact generato
 ---
 
 Made for the Athena Award: https://award.athena.hackclub.com/ 
+Link to project: https://vc-create.github.io/GWCActivistWebsite/ 
 
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
